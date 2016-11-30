@@ -1,8 +1,11 @@
 ﻿using System;
 namespace SimpleRPG
 {
-	public interface EmptyInterface
+	public interface IPersonaje
 	{
 		void atacar();
+		void item();
+		void usar();
 	}
+
 }
