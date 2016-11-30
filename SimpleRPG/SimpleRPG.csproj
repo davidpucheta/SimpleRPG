@@ -34,9 +34,7 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="IPersonaje.cs" />
-    <Compile Include="Paladin.cs" />
-    <Compile Include="Items.cs" />
+    <Compile Include="Personaje.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
